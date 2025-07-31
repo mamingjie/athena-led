@@ -19,7 +19,7 @@ LOGIN_API = f'{BASE_URL}/'
 
 # 认证信息
 USERNAME = 'root'
-PASSWORD = 'Mmj@@134'
+PASSWORD = 'password'
 
 # Flask 应用
 app = Flask(__name__)
